@@ -1,6 +1,7 @@
 
 # SANZERO
 AI 기반 산업재해 보상 서비스 플랫폼
+/
 [![영상 썸네일: AwEpd6Rsznc](https://img.youtube.com/vi/AwEpd6Rsznc/hqdefault.jpg)](https://www.youtube.com/watch?v=AwEpd6Rsznc)
 
 ## 📚 관련 문서
